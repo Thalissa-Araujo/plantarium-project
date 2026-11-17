@@ -113,14 +113,16 @@ Certifique-se de ter o **Node.js** (versão 18 ou superior recomendada) e o **np
 
 ## Vídeo do Projeto
 
-[![Assista ao Video Google Drive]](https://drive.google.com/file/d/1WsH0lk23-DXAaCPYFa_HNHPe8ygJQf2f/view?usp=sharing)
+[![Assista ao Video Google Drive](./imagens/thumbnail.png)](https://drive.google.com/file/d/1WsH0lk23-DXAaCPYFa_HNHPe8ygJQf2f/view?usp=sharing)
 
 ## Capturas de Tela
 
 *(Substitua os caminhos abaixo pelas imagens reais da sua aplicação antes de entregar)*
 
 * **Visão Geral (Listagem e Formulário):**
-  `![Listagem do Catálogo](./screenshots/listagem.png)`
+![Listagem do Catálogo](./imagens/thumbnail.png)
 
 * **Cadastro de Nova Espécie:**
-  `![Formulário Preenchido](./screenshots/cadastro.png)`
+![Formulário Preenchido](./imagens/cadastro.png)
+
+![Formulário Preenchido](./imagens/margarida.png)
