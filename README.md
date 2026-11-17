@@ -117,8 +117,6 @@ Certifique-se de ter o **Node.js** (versão 18 ou superior recomendada) e o **np
 
 ## Capturas de Tela
 
-*(Substitua os caminhos abaixo pelas imagens reais da sua aplicação antes de entregar)*
-
 * **Visão Geral (Listagem e Formulário):**
 ![Listagem do Catálogo](./imagens/thumbnail.png)
 
