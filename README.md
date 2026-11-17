@@ -6,7 +6,7 @@ O projeto consiste em um catálogo botânico que permite a consulta e o registro
 
 **Frontend**
 
-* **React 18** (Vite) — Construído integralmente com Componentes Funcionais.
+* **React 18** (Vite)
 
 * **React Hooks** — `useState` para gerenciamento de estado da lista, controle de carregamento/erros e inputs controlados do formulário; `useEffect` para busca inicial dos dados na montagem do componente principal.
 
